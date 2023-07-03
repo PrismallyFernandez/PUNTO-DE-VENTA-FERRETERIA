@@ -1,0 +1,46 @@
+C:\Users\SECRETARIA\source\repos\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\SECRETARIA\source\repos\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\SECRETARIA\source\repos\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\SECRETARIA\source\repos\Proyecto Final\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto_Final.Form1.resources
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto_Final.frmLogin.resources
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto_Final.frmUsuario.resources
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto_Final.frmCliente.resources
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto_Final.frmFactura.resources
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto_Final.frmProducto.resources
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto_Final.frmrecibo.resources
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto_Final.frmVentas.resources
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto_Final.frmReporteCompra.resources
+C:\Users\SECRETARIA\source\repos\Proyecto Final\obj\Debug\Proyecto_Final.frmReporteVentas.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmReporteVentas.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmVentas.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmLogin.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmProducto.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmrecibo.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmUsuario.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmmenu.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\MySql.Data.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml

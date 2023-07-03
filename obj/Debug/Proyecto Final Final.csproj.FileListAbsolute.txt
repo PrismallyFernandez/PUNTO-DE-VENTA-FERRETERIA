@@ -1,0 +1,69 @@
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\MySql.Data.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final Final.csproj.AssemblyReference.cache
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmclientess.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmmenu.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmproveedores.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmReporteVentas.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmVentas.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmLogin.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmProducto.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmrecibo.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmUsuario.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final Final.csproj.GenerateResource.cache
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final Final.csproj.CoreCompileInputs.cache
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final Final.csproj.CopyComplete
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmbusquedaproductos.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmbusquedaclientes.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\itextsharp.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\bin\Debug\itextsharp.xml
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmrecib.resources
+C:\Users\mrdar\Downloads\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmvender.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\itextsharp.dll
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\MySql.Data.dll
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\bin\Debug\itextsharp.xml
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final Final.csproj.AssemblyReference.cache
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmbusquedaclientes.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmbusquedaproductos.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmclientess.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmmenu.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmproveedores.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmrecib.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmReporteVentas.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmvender.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmVentas.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmLogin.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmProducto.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmrecibo.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.frmUsuario.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final Final.csproj.GenerateResource.cache
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final Final.csproj.CoreCompileInputs.cache
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final Final.csproj.CopyComplete
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\Prismally Fernández\Downloads\Proyecto Final (4) 4\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb

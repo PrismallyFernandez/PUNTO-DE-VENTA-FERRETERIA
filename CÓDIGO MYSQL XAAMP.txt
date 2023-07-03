@@ -1,0 +1,144 @@
+
+CREATE DATABASE ferreteriestrella;
+
+CREATE TABLE suplidores (
+  id INT primary key AUTO_INCREMENT,
+  nombre VARCHAR(100),
+  telefono VARCHAR(20),
+  rnc VARCHAR(20),
+  direccion VARCHAR(150),
+  estado varchar (1)
+);
+
+CREATE TABLE empleados (
+  id INT primary key AUTO_INCREMENT,
+  nombre VARCHAR(100),
+  sexo varchar(1),
+  cedula VARCHAR(20),
+  telefono VARCHAR(20),
+  direccion VARCHAR(150),
+  estado varchar(1),
+  posicion varchar(50)
+);
+CREATE TABLE clientes (
+  id INT primary key AUTO_INCREMENT,
+  nombre VARCHAR(255),
+  cedula VARCHAR(20),
+  telefono VARCHAR(20),
+  direccion VARCHAR(255),
+  estado varchar(1)
+);
+CREATE TABLE facturas (
+  id INT primary key  AUTO_INCREMENT,
+  idcliente INT not null,
+  monto DECIMAL(10,2),
+  tipo varchar (15),
+  fecha DATE,
+  FOREIGN KEY (idcliente) REFERENCES clientes(id)
+);
+
+CREATE TABLE usuarios (
+  id INT primary key AUTO_INCREMENT,
+  idempleado INT not null,
+  usuario VARCHAR(20),
+  contraseña VARCHAR(20),
+  FOREIGN KEY (idempleado) REFERENCES empleados(id)
+);
+
+
+ CREATE TABLE Productos (
+  id INT primary key  AUTO_INCREMENT,
+  descripcion VARCHAR(100),
+  costo DECIMAL(10,2),
+  precio DECIMAL(10,2),
+  estado varchar (1),
+  suplidor INT,
+  FOREIGN KEY (suplidor) REFERENCES suplidores(id)
+);
+
+
+
+ DELIMITER $$
+CREATE PROCEDURE crear_producto(IN descripcion VARCHAR(100), IN costo DECIMAL(10,2), IN precio DECIMAL(10,2), IN estado VARCHAR(1), IN suplidor INT)
+BEGIN
+INSERT INTO Productos (descripcion, costo, precio, estado, suplidor)
+VALUES (descripcion, costo, precio, estado, suplidor);
+END$$
+DELIMITER ;
+
+
+DELIMITER $$
+CREATE PROCEDURE actualizar_producto(IN id INT, IN descripcion VARCHAR(150), IN costo DECIMAL(10,2), IN precio DECIMAL(10,2), IN estado VARCHAR(1), IN suplidor INT)
+BEGIN
+UPDATE Productos SET descripcion = descripcion, costo = costo, precio = precio, estado = estado, suplidor = suplidor WHERE id = id;
+END$$
+DELIMITER ;
+
+ DELIMITER $$
+CREATE PROCEDURE crear_suplidor(IN nombre VARCHAR(100), IN telefono VARCHAR(20), IN rnc VARCHAR(20), IN direccion VARCHAR(150), IN estado varchar (1))
+BEGIN
+    INSERT INTO suplidores (nombre, telefono, rnc, direccion,estado)
+    VALUES (nombre, telefono, rnc, direccion,estado);
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE PROCEDURE actualizar_suplidor(IN id INT, IN nombre VARCHAR(100), IN telefono VARCHAR(20), IN rnc VARCHAR(20), IN direccion VARCHAR(150), IN estado varchar (1))
+BEGIN
+    UPDATE suplidores SET nombre = nombre, telefono = telefono, rnc = rnc, direccion = direccion, estado = estado WHERE id = id;
+END$$
+DELIMITER ;
+
+ DELIMITER $$
+CREATE PROCEDURE crear_empleado(IN nombre VARCHAR(100), IN sexo VARCHAR(1), IN cedula VARCHAR(20), IN telefono VARCHAR(20), IN direccion VARCHAR(150), IN estado varchar (1),IN posicion varchar(50))
+BEGIN
+    INSERT INTO empleados (nombre, sexo, cedula, telefono, direccion, estado,posicion)
+    VALUES (nombre, sexo, cedula, telefono, direccion, estado,posicion);
+END$$
+DELIMITER ;
+
+ DELIMITER $$
+
+CREATE PROCEDURE actualizar_empleado(IN id INT, IN nombre VARCHAR(100), IN sexo VARCHAR(1), IN cedula VARCHAR(20), IN telefono VARCHAR(20), IN direccion VARCHAR(150), IN estado varchar (1), IN posicion varchar(50)) BEGIN UPDATE empleados SET nombre = nombre, sexo = sexo, cedula = cedula, telefono = telefono, direccion = direccion, estado = estado, posicion = posicion where id = id; 
+
+END$$
+DELIMITER ;
+ DELIMITER $$
+
+
+CREATE PROCEDURE crear_cliente(
+    IN nombre VARCHAR(100),
+    IN cedula VARCHAR(20),
+    IN telefono VARCHAR(20),
+    IN direccion VARCHAR(150),
+    IN estado varchar (1)
+)
+BEGIN
+    INSERT INTO clientes (nombre, cedula, telefono, direccion,estado)
+    VALUES (nombre,  cedula, telefono, direccion,estado);
+END$$
+DELIMITER ;
+ DELIMITER $$
+
+
+CREATE PROCEDURE actualizar_cliente(
+    IN id INT,
+    IN nombre VARCHAR(255),
+    IN cedula VARCHAR(20),
+    IN telefono VARCHAR(20),
+    IN direccion VARCHAR(255),
+    IN estado varchar (1)
+)
+BEGIN
+    UPDATE clientes
+    SET nombre = nombre, cedula = cedula, telefono = telefono, direccion = direccion, estado = estado
+    WHERE id = id;
+END$$
+
+ DELIMITER $$
+CREATE PROCEDURE crear_factura(IN id_cliente INT, IN monto DECIMAL(10,2), IN tipo VARCHAR(15), IN fecha DATE)
+BEGIN
+    INSERT INTO facturas (idcliente, monto, tipo, fecha)
+    VALUES (id_cliente, monto, tipo, fecha);
+END$$
+DELIMITER ;
