@@ -1,5 +1,5 @@
 # PUNTO-DE-VENTA-FERRETERIA
- PUNTO DE VENTA PARA NEGOCIOS 
+ PUNTO DE VENTA PARA NEGOCIOS (Faltan arreglar detalles)
 ![Captura de pantalla 2023-07-02 223837](https://github.com/PrismallyFernandez/PUNTO-DE-VENTA-FERRETERIA/assets/128163232/a34f9a70-ac74-4425-9e73-50301e738365)
 ![Captura de pantalla 2023-07-02 224059](https://github.com/PrismallyFernandez/PUNTO-DE-VENTA-FERRETERIA/assets/128163232/4881045f-ad18-4e9d-81b6-c88d5822ee97)
 ![Captura de pantalla 2023-07-02 224117](https://github.com/PrismallyFernandez/PUNTO-DE-VENTA-FERRETERIA/assets/128163232/6b2815b0-f7f5-4b2a-9381-1ac0131b167f)
