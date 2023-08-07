@@ -1,6 +1,8 @@
 # PUNTO-DE-VENTA-FERRETERIA
  PUNTO DE VENTA PARA NEGOCIOS (Faltan arreglar detalles)
+ 
  Este es un proyecto de software para la gestión de ventas de una ferretería hecho con C# y conectado a una base de datos con XAAMP MYSQL.
+ 
  This is a software project for the sales management of a hardware store made with C# and connected to a database with XAAMP MYSQL.
 
 Código MySql Xaamp:[CÓDIGO MYSQL XAAMP (1).txt](https://github.com/PrismallyFernandez/PUNTO-DE-VENTA-FERRETERIA/files/12271274/CODIGO.MYSQL.XAAMP.1.txt)
